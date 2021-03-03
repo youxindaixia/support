@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## 欢迎使用友信贷侠
 
-You can use the [editor on GitHub](https://github.com/youxindaixia/support/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](https://icon.wuruihong.com/files/202103/1W8fEgAU/ios/AppIcon.appiconset/icon-40@2x.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+展业信贷侠 是我们公司开发的一款专服务于客户经理的工具软件，旨在提供方便，快捷的服务。
+快速查看行业热门资讯，同行社圈分享交流。
+帮助客户经理更快提升获客水平，培育自己的专业度。
 
-### Markdown
+# 联系我们：
+智地信息科技（徐州）有限公司
+地址：泉山州三街区淮海天地上住区3号楼1单元912号
+电话：0516-89926791
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/youxindaixia/support/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
